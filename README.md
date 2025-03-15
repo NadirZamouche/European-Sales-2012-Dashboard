@@ -3,7 +3,10 @@ This repository contains a sales dashboard visualization for European markets in
 
 
 ## 📂 Contents
-![European Sales - 2012 Dashboard](https://github.com/user-attachments/assets/40790fcd-335e-493b-a764-9f97be1236e9)
+Click the image below to see for yourself:
+<a href="https://public.tableau.com/app/profile/nadir.zamouche/viz/EuropeanSales-2012Dashboard/Dashboard1" target="_blank">
+    <img width="1280" alt="Screenshot 2024-06-11 230236" src="https://github.com/user-attachments/assets/40790fcd-335e-493b-a764-9f97be1236e9"/>
+</a>
 
 ## 📈 Features
 ✔️ Sales trends by region and country. <br>
