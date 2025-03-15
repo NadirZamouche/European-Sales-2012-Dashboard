@@ -5,16 +5,12 @@ This repository contains a sales dashboard visualization for European markets in
 
 
 ## 📈 Features
-✔️ Sales trends by region and country
-✔️ Revenue distribution across different segments
-✔️ Visual insights into key performance indicators (KPIs)
+✔️ Sales trends by region and country.
+✔️ Revenue distribution across different segments.
+✔️ Visual insights into key performance indicators (KPIs).
 
-##🔍 Usage
+## 🔍 Usage
 This dashboard can be used for:
-Business analysis & reporting
-Identifying high-performing regions
-Understanding revenue trends
-
-## 📌 Notes
-The data used in this visualization is from 2012.
-Future updates may include interactive dashboards or additional datasets.
+Business analysis & reporting.
+Identifying high-performing regions.
+Understanding revenue trends.
