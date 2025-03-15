@@ -21,12 +21,7 @@ This dashboard can be used for:
 - Understanding revenue trends.
 
 ## 📌 Notes
-- I gave Regions a Geographic Role as Country/Region.
-- I renamed these 2 Columns: Total Revenue -> Sales & Total Profit -> Profit.
-- I used a Data Source Filter to get only data from 2012 and optimise performance.
-- For interactivity purposes, I've also added filters to these 3 sheets on the dashboard: Sales by Month, Sales by Type & Sales by Country. Which means selecting for example a particular month or Item Type or Country changes both Sales and Profit values as well as the other sheets values accordingly.
-
-- - Assigned a *Geographic Role* to the *Regions* field as *Country/Region*.  
+- Assigned a *Geographic Role* to the *Regions* field as *Country/Region*.  
 - Renamed columns:  
   - `Total Revenue` → `Sales`  
   - `Total Profit` → `Profit`  
